@@ -1,0 +1,28 @@
+{
+	// Usare IntelliSense per informazioni sui possibili attributi.
+	// Al passaggio del mouse vengono visualizzate le descrizioni degli attributi esistenti.
+	// Per altre informazioni, visitare: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "exercise_deinde",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "exercise_deinde (profile mode)",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "debug",
+			"args": [
+				"-v"
+			]
+		},
+		{
+			"name": "exercise_deinde (release mode)",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		}
+	]
+}
